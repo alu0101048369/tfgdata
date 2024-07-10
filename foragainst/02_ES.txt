@@ -1,0 +1,17 @@
+Instrucciones:
+Da argumentos a favor y en contra del tema proporcionado
+
+Tema proporcionado:
+Privatización de la sanidad pública
+
+
+Argumentos:
+* Permite mayor autonomía e independencia para los ciudadanos.
+* Puede mejorar la calidad de la atención médica.
+* Puede aumentar los costos de la salud pública.
+
+
+Contra:
+* Puede reducir la calidad de la atención médica.
+* Puede aumentar la desigualdad en el acceso a la salud.
+* Puede llevar a la privatización de servicios públicos.

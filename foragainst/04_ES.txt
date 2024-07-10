@@ -1,0 +1,17 @@
+Instrucciones:
+Da argumentos a favor y en contra del tema proporcionado
+
+Tema proporcionado:
+Incrementar el gasto en defensa
+
+
+Argumentos:
+* La seguridad nacional es un problema importante que requiere un alto gasto.
+* El gasto en defensa permite proteger a los ciudadanos de los riesgos de seguridad.
+* El gasto en defensa ayuda a mantener la paz y seguridad en el mundo.
+
+
+Contraargumentos:
+* El gasto en defensa es un coste que no puede pagar.
+* El gasto en defensa puede conducir a la degradación de los servicios públicos.
+* El gasto en defensa puede aumentar el riesgo de guerra y conflictos internacionales.
