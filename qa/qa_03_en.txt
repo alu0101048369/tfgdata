@@ -1,0 +1,24 @@
+Instructions:
+Answer the user question based on the text provided.
+
+Text provided:
+Article 6
+Classification rules for high-risk AI systems
+1. Irrespective of whether an AI system is placed on the market or put into service independently from the products referred to in points (a) and (b), that AI system shall be considered to be high-risk where both of the following conditions are fulfilled:
+(a) the AI system is intended to be used as a safety component of a product, or the AI system is itself a product, covered by the Union harmonisation legislation listed in Annex I;
+(b) the product whose safety component pursuant to point (a) is the AI system, or the AI system itself as a product, is required to undergo a third-party conformity assessment, with a view to the placing on the market or the putting into service of that product pursuant to the Union harmonisation legislation listed in Annex I.
+2. In addition to the high-risk AI systems referred to in paragraph 1, AI systems referred to in Annex III shall be considered to be high-risk.
+3. By derogation from paragraph 2, an AI system shall not be considered to be high-risk if it does not pose a significant risk of harm to the health, safety or fundamental rights of natural persons, including by not materially influencing the outcome of decision making. This shall be the case where one or more of the following conditions are fulfilled:
+(a) the AI system is intended to perform a narrow procedural task;
+(b) the AI system is intended to improve the result of a previously completed human activity;
+(c) the AI system is intended to detect decision-making patterns or deviations from prior decision-making patterns and is not meant to replace or influence the previously completed human assessment, without proper human review; or
+(d) the AI system is intended to perform a preparatory task to an assessment relevant for the purposes of the use cases listed in Annex III. Notwithstanding the first subparagraph, an AI system referred to in Annex III shall always be considered to be high-risk where the AI system performs profiling of natural persons.
+4. A provider who considers that an AI system referred to in Annex III is not high-risk shall document its assessment before that system is placed on the market or put into service. Such provider shall be subject to the registration obligation set out in Article 49(2). Upon request of national competent authorities, the provider shall provide the documentation of the assessment.
+5. The Commission shall, after consulting the European Artificial Intelligence Board (the ‘Board’), and no later than … [18 months from the date of entry into force of this Regulation], provide guidelines specifying the practical implementation of this Article in line with Article 96 together with a comprehensive list of practical examples of use cases of AI systems that are high-risk and not high-risk.
+6. The Commission shall adopt delegated acts in accordance with Article 97 to amend the conditions laid down in paragraph 3, first subparagraph, of this Article. The Commission may adopt delegated acts in accordance with Article 97 in order to add new conditions to those laid down in paragraph 3, first subparagraph, or to modify them, only where there is concrete and reliable evidence of the existence of AI systems that fall under the scope of Annex III but do not pose a significant risk of harm to the health, safety or fundamental rights of natural persons.
+
+User question:
+There is a proposal to create an AI that listens to doctors in an operating room, and warns when it believes a security protocol is being violated. Is this AI considered a high-risk AI system? Why?
+
+Answer:
+Yes, the AI is considered a high-risk AI system under Article 6 of the Regulation. It falls under the criteria of both being intended to be used as a safety component of a product and requiring a third-party conformity assessment.
