@@ -1,0 +1,77 @@
+Instructions:
+Help the user with formal and legal writing
+
+User request:
+Write the authorization for the modification of a 66 kV electric transportation line, motivated by changes to the FV-3 highway, in Puerto del Rosario. Clarify that there will be 12 months until commissioning.
+
+
+Answer:
+**Authorization for the Modification of a 66 kV Electric Transportation Line**
+
+**[Date]**
+
+**[Name of Utility Company]**
+
+**[Address]**
+
+**Puerto del Rosario, Puerto Rico**
+
+**To:** [Name of Contractor]
+
+**Subject:** Authorization for the Modification of a 66 kV Electric Transportation Line Motivated by Changes to the FV-3 Highway
+
+**Introduction**
+
+This authorization is granted by [Utility Company] to [Contractor Name] to modify the existing 66 kV electric transportation line located in Puerto del Rosario, Puerto Rico, motivated by the construction of the FV-3 highway.
+
+**Motivation**
+
+The construction of the FV-3 highway necessitates the modification of the existing 66 kV electric transportation line to accommodate the increased traffic volume and safety requirements.
+
+**Scope of Work**
+
+The scope of work for this modification includes, but is not limited to:
+
+- Relocating or upgrading electrical infrastructure
+- Installing new equipment and infrastructure
+- Conducting all necessary testing and commissioning
+
+**Timeframe**
+
+This authorization is valid for a period of 12 months from the date of issuance.
+
+**Conditions**
+
+- The Contractor shall ensure that all work is performed in accordance with all applicable laws, regulations, and standards.
+- The Contractor shall provide the Utility Company with regular updates on the progress of the work.
+- The Contractor shall obtain all necessary permits and approvals from all applicable government agencies.
+
+**Compensation**
+
+The Contractor shall be compensated for all costs associated with the modification of the electric transportation line, including, but not limited to, labor, materials, equipment, and overhead.
+
+**Acceptance**
+
+This authorization may be accepted by the Utility Company upon completion of all of the conditions set forth herein.
+
+**Signatures**
+
+**For the Utility Company:**
+
+_________________________
+
+Name
+
+Title
+
+Date
+
+**For the Contractor:**
+
+_________________________
+
+Name
+
+Title
+
+Date

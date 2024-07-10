@@ -1,0 +1,27 @@
+Instrucciones:
+Ayuda al usuario con escritura formal y legal
+
+Petición del usuario:
+Redacte un mensaje de condolencia oficial en nombre Parlamento de Canarias para la familia y seres queridos del Sr. Jonathan Harrington, ex miembro del Parlamento, quien falleció inesperadamente.
+
+Respuesta:
+[Nombre del Parlamento de Canarias]
+[Fecha]
+
+[Nombre del destinatario]
+[Cargo]
+[Dirección]
+
+**Mensaje de condolencia oficial**
+
+Estimado/Estimada [Nombre del destinatario],
+
+Conmovido por la inesperada muerte del Sr. Jonathan Harrington, ex miembro del Parlamento de Canarias, extenduemos nuestras más profundas condolencias a la familia y seres queridos del fallecido.
+
+Nos recuerda con gratitud el servicio que el Sr. Harrington realizó al Parlamento durante muchos años. Su dedicación y profesionalidad han sido un ejemplo para todos.
+
+Nos animamos a ustedes a mantener la memoria del Sr. Harrington en nuestros corazones y a seguir adelante con su legado.
+
+Atentamente,
+
+[Nombre del Parlamento de Canarias]

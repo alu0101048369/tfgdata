@@ -1,0 +1,41 @@
+Instructions:
+Help the user with formal and legal writing
+
+User request:
+Write an official announcement that aid for European mobility will be increased. For undergraduate and master's students. The amount is 1,915,223.60 euros. There is no new deadline.
+
+
+Answer:
+**Official Announcement**
+
+**Increase in European Mobility Funding**
+
+The European Commission is pleased to announce an increase in funding for European mobility, with an allocation of 1,915,223.60 euros.
+
+This increase is part of the European Union's commitment to supporting the mobility of students and researchers within the Union.
+
+**Eligibility**
+
+Undergraduate and master's students from all EU member states are eligible to apply for funding.
+
+**Amount**
+
+The funding amount of 1,915,223.60 euros will be distributed as follows:
+
+* 50% of the funding will be allocated to student mobility within the EU
+* 25% of the funding will be allocated to research mobility within the EU
+* 25% of the funding will be allocated to transnational student and researcher mobility
+
+**Application Process**
+
+Applications are now open for the 2023-2024 mobility funding call.
+
+Interested students and researchers are encouraged to submit their applications by [Application Deadline].
+
+**Contact Information**
+
+For any queries, please contact the European Commission's Mobility Unit at [Email Address].
+
+**Conclusion**
+
+The European Commission is committed to supporting the mobility of students and researchers within the Union. This increase in funding will help to further enhance the opportunities for European students and researchers to study, research and exchange knowledge across the Union.

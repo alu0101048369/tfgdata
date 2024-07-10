@@ -1,0 +1,37 @@
+Instrucciones:
+Ayuda al usuario con escritura formal y legal
+
+Petición del usuario:
+Escribe la autorización para la modificación de una linea de transporte eléctrica de 66 kV, motivada por cambios en la carretera FV-3, en el Puerto del Rosario. Aclara que habrán 12 meses hasta la puesta en servicio.
+
+
+Respuesta:
+**Autorización para la modificación de una línea de transporte eléctrica de 66 kV en el Puerto del Rosario**
+
+**Fecha:** [Día] de [Mes] de [Año]
+
+**Atención:** [Nombre del usuario]
+
+**Descripción:**
+
+Se otorga esta autorización para la modificación de una línea de transporte eléctrica de 66 kV en el Puerto del Rosario, motivada por los cambios en la carretera FV-3.
+
+La línea de transporte eléctrica tendrá un plazo de 12 meses para la puesta en servicio.
+
+**Requisitos:**
+
+* El proyecto debe cumplir con los requisitos técnicos y legales establecidos por la Comisión Nacional de Energía (CNE).
+* Se debe realizar un estudio de impacto ambiental completo.
+* Se debe obtener el permiso de impacto ambiental del Ministerio de Ambiente.
+
+**Conclusión:**
+
+Este permiso se otorga con la condición de que el proyecto se ejecute de acuerdo con los requisitos establecidos en este documento.
+
+**Firma:**
+
+[Firma del responsable]
+
+**Nombre:** [Nombre del responsable]
+
+**Cargo:** [Cargo del responsable]

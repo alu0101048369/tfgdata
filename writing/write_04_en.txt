@@ -1,0 +1,33 @@
+Instructions:
+Help the user with formal and legal writing
+
+User request:
+Compose an official condolence message on behalf of the Parliament of the Canary Islands to the family and loved ones of Mr. Jonathan Harrington, former Member of Parliament, who passed away unexpectedly.
+
+Answer:
+**[Insert Formal Salutation]**
+
+**[Insert Date]**
+
+**[Insert Name of Parliament]**
+**Canary Islands**
+
+**Subject: Condolences on the Passing of Mr. Jonathan Harrington**
+
+Dear [Family and loved ones],
+
+On behalf of the Parliament of the Canary Islands, I extend our deepest condolences on the sudden and unexpected passing of Mr. Jonathan Harrington, former Member of Parliament.
+
+Mr. Harrington was a respected and dedicated public servant, known for his commitment to the people of the Canary Islands. His loss will be deeply felt by all who knew him.
+
+We are deeply saddened by this sudden and tragic event, and our thoughts and prayers are with you and your family during this difficult time.
+
+The Parliament of the Canary Islands stands ready to offer any assistance that may be required during this time of grief.
+
+May the memories of Mr. Harrington bring you comfort and peace.
+
+Yours sincerely,
+
+**[Insert Name]**
+**Parliamentary Secretary**
+**Canary Islands Parliament**
