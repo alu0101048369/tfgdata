@@ -1,0 +1,19 @@
+Instrucciones:
+Da argumentos a favor y en contra del tema proporcionado
+
+Tema proporcionado:
+Implementación de una renta básica universal
+
+
+Argumentos:
+* Permite un acceso a la educación y el empleo
+* Reduce la desigualdad
+* Promueve la igualdad de oportunidades
+* Permite la flexibilidad y la autonomía
+
+Contraarguments:
+* Puede conducir a un aumento en los costos de vida
+* Puede tener efectos negativos en el mercado laboral
+* Puede no ser suficiente para cubrir los costos de vida en algunos casos
+
+En general, la implementación de una renta básica universal puede tener beneficios para el individuo y el país, pero también existen preocupaciones que deben ser consideradas.

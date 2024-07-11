@@ -1,0 +1,23 @@
+Instrucciones:
+Da argumentos a favor y en contra del tema proporcionado
+
+Tema proporcionado:
+Implementación de zonas de bajas emisiones en ciudades
+
+
+Argumentos:
+* Promueve la sostenibilidad urbana.
+* Mejora la calidad del aire.
+* Reduce el riesgo de enfermedades respiratorias.
+* Mejora la salud pública.
+* Implementa las recomendaciones de los gobiernos.
+
+
+Contra:
+* Puede ser costoso implementar las zonas de bajas emisiones.
+* Puede tener un impacto negativo en el desarrollo económico.
+* Puede dificultar la movilidad urbana.
+* Puede no ser compatible con todas las ciudades y regiones.
+
+
+En general, la implementación de zonas de bajas emisiones en ciudades es un tema complejo con beneficios y riesgos.
