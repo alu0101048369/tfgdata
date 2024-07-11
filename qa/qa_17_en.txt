@@ -1,0 +1,18 @@
+Instructions:
+Answer the user question based on the text provided.
+
+User question:
+What plan was considered nullified?
+
+Text provided:
+The Excellency Plenary City Council, in an ordinary session held on April 11, two thousand twenty-four, in point 2 of the Agenda and in relation to file 2020003825, relating to the nullity of the Guamasa 3 Partial Plan, adopted the following Agreement:
+First.- Review ex officio the Plenary Agreement of May 12, 2005, of definitive approval of the Partial Plan of the Guamasa 3 developable land sector, declaring the nullity of this Partial Plan for having been approved without the mandatory report of the Ministry of Defense, of in accordance with the ex officio review procedure provided for in article 106.2 of Law 39/2015, of October 1, on the Common Administrative Procedure of Public Administrations.
+Second.- Notify interested parties and consult Public Administrations.
+Third.- Publish this Agreement in the Official Gazette of the Canary Islands and in the Official Gazette of the Province.
+Fourth.- Transfer to the Licensing, Activities, Discipline and Planning Management Services of the Municipal Urban Planning Management of La Laguna.
+Fifth.- Notify the Canary Islands Planning Registry in accordance with article 105 of the Canary Islands Planning Regulation approved by Decree 181/2018, of December 26.
+Sixth.- Against this act, which puts an end to the administrative procedure, an optional appeal for reconsideration may be filed before the body that issued it within a period of one month from the day following its notification or publication, or a contentious appeal. administrative before the Contentious-Administrative Court of Santa Cruz de Tenerife, within a period of two months from the day following its notification or publication.
+San Cristóbal de La Laguna, June 26, 2024.- The Director Director (p.d.f. Resolution No. 3854/2023), the Head of Service, Ana Isabel Abreu Rosado.
+
+Answer:
+The Guamasa 3 Partial Plan was nullified due to the ex officio review procedure provided for in article 106.2 of Law 39/2015, of October 1, on the Common Administrative Procedure of Public Administrations.
